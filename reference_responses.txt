@@ -1,0 +1,3 @@
+Initial Setup Call: {'error': {'type': 101, 'address': '/', 'description': 'link button not pressed'}}
+
+Setup Call After Button Press: {'success': {'username': 'Dftd4EACv3P11gmtyJchsIJiqFlRip0u6ZzKu3cF', 'clientkey': 'AB1CB8E0BDEC8FAA850C4E9A7012B367'}}
