@@ -114,7 +114,9 @@ def get_lights_lookup():
         print(res)
         res = set_govee_light(light[0], light[1], "brightness", 50)
         print(res)
-        res = set_govee_light(light[0], light[1], "color", [0, 230, 255])
+        # res = set_govee_light(light[0], light[1], "color", [0, 230, 255])
+        print(res)
+        res = set_govee_light(light[0], light[1], "turn", "off")
         print(res)
         
     

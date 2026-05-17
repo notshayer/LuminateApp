@@ -26,4 +26,4 @@ from govee_commands import *
 ### GOVEE TESTING
 
 res = get_lights_lookup()
-# print(res)
+print(res)
